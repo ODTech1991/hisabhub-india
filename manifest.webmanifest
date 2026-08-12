@@ -1,0 +1,9 @@
+{
+  "name": "HisabHub — India's Smart Finance & Tax Toolkit",
+  "short_name": "HisabHub",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f7f8fb",
+  "theme_color": "#0f172a",
+  "description": "India-focused GST, tax, accounting and finance toolkit."
+}
